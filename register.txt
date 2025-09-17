@@ -1,0 +1,3 @@
+register file
+<label>Mobile Number</label>
+<input type="tel" >
